@@ -1,0 +1,241 @@
+# depslib dependency file v1.0
+1620935489 source:c:\users\pedro\onedrive\Área de trabalho\lpi_2ee_lf_2020.1_-_projeto_alberto_marques_dos_santos.zip\lpi 2ee lf 2020.1 - projeto alberto_marques_dos_santos.zip\dificuldades.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"mapa.h"
+	"menu.h"
+	"score.h"
+	"funcoes.h"
+
+1620916814 c:\users\pedro\onedrive\Área de trabalho\lpi_2ee_lf_2020.1_-_projeto_alberto_marques_dos_santos.zip\lpi 2ee lf 2020.1 - projeto alberto_marques_dos_santos.zip\mapa.h
+
+1620932645 c:\users\pedro\onedrive\Área de trabalho\lpi_2ee_lf_2020.1_-_projeto_alberto_marques_dos_santos.zip\lpi 2ee lf 2020.1 - projeto alberto_marques_dos_santos.zip\menu.h
+
+1620929486 c:\users\pedro\onedrive\Área de trabalho\lpi_2ee_lf_2020.1_-_projeto_alberto_marques_dos_santos.zip\lpi 2ee lf 2020.1 - projeto alberto_marques_dos_santos.zip\score.h
+
+1620855357 c:\users\pedro\onedrive\Área de trabalho\lpi_2ee_lf_2020.1_-_projeto_alberto_marques_dos_santos.zip\lpi 2ee lf 2020.1 - projeto alberto_marques_dos_santos.zip\funcoes.h
+
+1620930655 source:c:\users\pedro\onedrive\Área de trabalho\lpi_2ee_lf_2020.1_-_projeto_alberto_marques_dos_santos.zip\lpi 2ee lf 2020.1 - projeto alberto_marques_dos_santos.zip\gameover.c
+	"mov.h"
+	"score.h"
+	"Menu.h"
+	"movimento.h"
+
+1620913471 c:\users\pedro\onedrive\Área de trabalho\lpi_2ee_lf_2020.1_-_projeto_alberto_marques_dos_santos.zip\lpi 2ee lf 2020.1 - projeto alberto_marques_dos_santos.zip\mov.h
+
+1620918774 c:\users\pedro\onedrive\Área de trabalho\lpi_2ee_lf_2020.1_-_projeto_alberto_marques_dos_santos.zip\lpi 2ee lf 2020.1 - projeto alberto_marques_dos_santos.zip\movimento.h
+
+1620913653 source:c:\users\pedro\onedrive\Área de trabalho\lpi_2ee_lf_2020.1_-_projeto_alberto_marques_dos_santos.zip\lpi 2ee lf 2020.1 - projeto alberto_marques_dos_santos.zip\intconversor.c
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	<stdio.h>
+	"mapa.h"
+
+1620912374 source:c:\users\pedro\onedrive\Área de trabalho\lpi_2ee_lf_2020.1_-_projeto_alberto_marques_dos_santos.zip\lpi 2ee lf 2020.1 - projeto alberto_marques_dos_santos.zip\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"Menu.h"
+
+1620913680 source:c:\users\pedro\onedrive\Área de trabalho\lpi_2ee_lf_2020.1_-_projeto_alberto_marques_dos_santos.zip\lpi 2ee lf 2020.1 - projeto alberto_marques_dos_santos.zip\mapa.c
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+
+1620934747 source:c:\users\pedro\onedrive\Área de trabalho\lpi_2ee_lf_2020.1_-_projeto_alberto_marques_dos_santos.zip\lpi 2ee lf 2020.1 - projeto alberto_marques_dos_santos.zip\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"mapa.h"
+	"score.h"
+	"gameOver.h"
+
+1620932136 c:\users\pedro\onedrive\Área de trabalho\lpi_2ee_lf_2020.1_-_projeto_alberto_marques_dos_santos.zip\lpi 2ee lf 2020.1 - projeto alberto_marques_dos_santos.zip\gameover.h
+
+1620934979 source:c:\users\pedro\onedrive\Área de trabalho\lpi_2ee_lf_2020.1_-_projeto_alberto_marques_dos_santos.zip\lpi 2ee lf 2020.1 - projeto alberto_marques_dos_santos.zip\movimento.c
+	<stdio.h>
+	<Windows.h>
+	<conio.h>
+	<stdbool.h>
+	"menu.h"
+	"mapa.h"
+
+1620932645 source:c:\users\pedro\onedrive\Área de trabalho\lpi_2ee_lf_2020.1_-_projeto_alberto_marques_dos_santos.zip\lpi 2ee lf 2020.1 - projeto alberto_marques_dos_santos.zip\score.c
+	<stdio.h>
+	<Windows.h>
+	<conio.h>
+	"menu.h"
+
+1620930202 source:c:\users\pedro\onedrive\Área de trabalho\lpi_2ee_lf_2020.1_-_projeto_alberto_marques_dos_santos.zip\lpi 2ee lf 2020.1 - projeto alberto_marques_dos_santos.zip\verificadormovimento.c
+	<stdio.h>
+	<Windows.h>
+	<conio.h>
+	<stdbool.h>
+	"mapa.h"
+	"mov.h"
+
+1620935489 source:c:\users\pedro\onedrive\Área de trabalho\c e c++\lpi_2ee_lf_2020.1_-_projeto_alberto_marques_dos_santos.zip\lpi 2ee lf 2020.1 - projeto alberto_marques_dos_santos.zip\dificuldades.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"mapa.h"
+	"menu.h"
+	"score.h"
+	"funcoes.h"
+
+1620916814 c:\users\pedro\onedrive\Área de trabalho\c e c++\lpi_2ee_lf_2020.1_-_projeto_alberto_marques_dos_santos.zip\lpi 2ee lf 2020.1 - projeto alberto_marques_dos_santos.zip\mapa.h
+
+1620932645 c:\users\pedro\onedrive\Área de trabalho\c e c++\lpi_2ee_lf_2020.1_-_projeto_alberto_marques_dos_santos.zip\lpi 2ee lf 2020.1 - projeto alberto_marques_dos_santos.zip\menu.h
+
+1620929486 c:\users\pedro\onedrive\Área de trabalho\c e c++\lpi_2ee_lf_2020.1_-_projeto_alberto_marques_dos_santos.zip\lpi 2ee lf 2020.1 - projeto alberto_marques_dos_santos.zip\score.h
+
+1620855357 c:\users\pedro\onedrive\Área de trabalho\c e c++\lpi_2ee_lf_2020.1_-_projeto_alberto_marques_dos_santos.zip\lpi 2ee lf 2020.1 - projeto alberto_marques_dos_santos.zip\funcoes.h
+
+1620930655 source:c:\users\pedro\onedrive\Área de trabalho\c e c++\lpi_2ee_lf_2020.1_-_projeto_alberto_marques_dos_santos.zip\lpi 2ee lf 2020.1 - projeto alberto_marques_dos_santos.zip\gameover.c
+	"mov.h"
+	"score.h"
+	"Menu.h"
+	"movimento.h"
+
+1620913471 c:\users\pedro\onedrive\Área de trabalho\c e c++\lpi_2ee_lf_2020.1_-_projeto_alberto_marques_dos_santos.zip\lpi 2ee lf 2020.1 - projeto alberto_marques_dos_santos.zip\mov.h
+
+1620918774 c:\users\pedro\onedrive\Área de trabalho\c e c++\lpi_2ee_lf_2020.1_-_projeto_alberto_marques_dos_santos.zip\lpi 2ee lf 2020.1 - projeto alberto_marques_dos_santos.zip\movimento.h
+
+1620913653 source:c:\users\pedro\onedrive\Área de trabalho\c e c++\lpi_2ee_lf_2020.1_-_projeto_alberto_marques_dos_santos.zip\lpi 2ee lf 2020.1 - projeto alberto_marques_dos_santos.zip\intconversor.c
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	<stdio.h>
+	"mapa.h"
+
+1620912374 source:c:\users\pedro\onedrive\Área de trabalho\c e c++\lpi_2ee_lf_2020.1_-_projeto_alberto_marques_dos_santos.zip\lpi 2ee lf 2020.1 - projeto alberto_marques_dos_santos.zip\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"Menu.h"
+
+1620913680 source:c:\users\pedro\onedrive\Área de trabalho\c e c++\lpi_2ee_lf_2020.1_-_projeto_alberto_marques_dos_santos.zip\lpi 2ee lf 2020.1 - projeto alberto_marques_dos_santos.zip\mapa.c
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+
+1620934747 source:c:\users\pedro\onedrive\Área de trabalho\c e c++\lpi_2ee_lf_2020.1_-_projeto_alberto_marques_dos_santos.zip\lpi 2ee lf 2020.1 - projeto alberto_marques_dos_santos.zip\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"mapa.h"
+	"score.h"
+	"gameOver.h"
+
+1620932136 c:\users\pedro\onedrive\Área de trabalho\c e c++\lpi_2ee_lf_2020.1_-_projeto_alberto_marques_dos_santos.zip\lpi 2ee lf 2020.1 - projeto alberto_marques_dos_santos.zip\gameover.h
+
+1620934979 source:c:\users\pedro\onedrive\Área de trabalho\c e c++\lpi_2ee_lf_2020.1_-_projeto_alberto_marques_dos_santos.zip\lpi 2ee lf 2020.1 - projeto alberto_marques_dos_santos.zip\movimento.c
+	<stdio.h>
+	<Windows.h>
+	<conio.h>
+	<stdbool.h>
+	"menu.h"
+	"mapa.h"
+
+1620932645 source:c:\users\pedro\onedrive\Área de trabalho\c e c++\lpi_2ee_lf_2020.1_-_projeto_alberto_marques_dos_santos.zip\lpi 2ee lf 2020.1 - projeto alberto_marques_dos_santos.zip\score.c
+	<stdio.h>
+	<Windows.h>
+	<conio.h>
+	"menu.h"
+
+1620930202 source:c:\users\pedro\onedrive\Área de trabalho\c e c++\lpi_2ee_lf_2020.1_-_projeto_alberto_marques_dos_santos.zip\lpi 2ee lf 2020.1 - projeto alberto_marques_dos_santos.zip\verificadormovimento.c
+	<stdio.h>
+	<Windows.h>
+	<conio.h>
+	<stdbool.h>
+	"mapa.h"
+	"mov.h"
+
+1620935489 source:c:\users\pedro\onedrive\Área de trabalho\tudo\programação\c e c++\lpi_2ee_lf_2020.1_-_projeto_alberto_marques_dos_santos.zip\lpi 2ee lf 2020.1 - projeto alberto_marques_dos_santos.zip\dificuldades.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"mapa.h"
+	"menu.h"
+	"score.h"
+	"funcoes.h"
+
+1620916814 c:\users\pedro\onedrive\Área de trabalho\tudo\programação\c e c++\lpi_2ee_lf_2020.1_-_projeto_alberto_marques_dos_santos.zip\lpi 2ee lf 2020.1 - projeto alberto_marques_dos_santos.zip\mapa.h
+
+1620932645 c:\users\pedro\onedrive\Área de trabalho\tudo\programação\c e c++\lpi_2ee_lf_2020.1_-_projeto_alberto_marques_dos_santos.zip\lpi 2ee lf 2020.1 - projeto alberto_marques_dos_santos.zip\menu.h
+
+1620929486 c:\users\pedro\onedrive\Área de trabalho\tudo\programação\c e c++\lpi_2ee_lf_2020.1_-_projeto_alberto_marques_dos_santos.zip\lpi 2ee lf 2020.1 - projeto alberto_marques_dos_santos.zip\score.h
+
+1620855357 c:\users\pedro\onedrive\Área de trabalho\tudo\programação\c e c++\lpi_2ee_lf_2020.1_-_projeto_alberto_marques_dos_santos.zip\lpi 2ee lf 2020.1 - projeto alberto_marques_dos_santos.zip\funcoes.h
+
+1620930655 source:c:\users\pedro\onedrive\Área de trabalho\tudo\programação\c e c++\lpi_2ee_lf_2020.1_-_projeto_alberto_marques_dos_santos.zip\lpi 2ee lf 2020.1 - projeto alberto_marques_dos_santos.zip\gameover.c
+	"mov.h"
+	"score.h"
+	"Menu.h"
+	"movimento.h"
+
+1620913471 c:\users\pedro\onedrive\Área de trabalho\tudo\programação\c e c++\lpi_2ee_lf_2020.1_-_projeto_alberto_marques_dos_santos.zip\lpi 2ee lf 2020.1 - projeto alberto_marques_dos_santos.zip\mov.h
+
+1620918774 c:\users\pedro\onedrive\Área de trabalho\tudo\programação\c e c++\lpi_2ee_lf_2020.1_-_projeto_alberto_marques_dos_santos.zip\lpi 2ee lf 2020.1 - projeto alberto_marques_dos_santos.zip\movimento.h
+
+1620913653 source:c:\users\pedro\onedrive\Área de trabalho\tudo\programação\c e c++\lpi_2ee_lf_2020.1_-_projeto_alberto_marques_dos_santos.zip\lpi 2ee lf 2020.1 - projeto alberto_marques_dos_santos.zip\intconversor.c
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	<stdio.h>
+	"mapa.h"
+
+1620912374 source:c:\users\pedro\onedrive\Área de trabalho\tudo\programação\c e c++\lpi_2ee_lf_2020.1_-_projeto_alberto_marques_dos_santos.zip\lpi 2ee lf 2020.1 - projeto alberto_marques_dos_santos.zip\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"Menu.h"
+
+1620913680 source:c:\users\pedro\onedrive\Área de trabalho\tudo\programação\c e c++\lpi_2ee_lf_2020.1_-_projeto_alberto_marques_dos_santos.zip\lpi 2ee lf 2020.1 - projeto alberto_marques_dos_santos.zip\mapa.c
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+
+1620934747 source:c:\users\pedro\onedrive\Área de trabalho\tudo\programação\c e c++\lpi_2ee_lf_2020.1_-_projeto_alberto_marques_dos_santos.zip\lpi 2ee lf 2020.1 - projeto alberto_marques_dos_santos.zip\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"mapa.h"
+	"score.h"
+	"gameOver.h"
+
+1620932136 c:\users\pedro\onedrive\Área de trabalho\tudo\programação\c e c++\lpi_2ee_lf_2020.1_-_projeto_alberto_marques_dos_santos.zip\lpi 2ee lf 2020.1 - projeto alberto_marques_dos_santos.zip\gameover.h
+
+1620934979 source:c:\users\pedro\onedrive\Área de trabalho\tudo\programação\c e c++\lpi_2ee_lf_2020.1_-_projeto_alberto_marques_dos_santos.zip\lpi 2ee lf 2020.1 - projeto alberto_marques_dos_santos.zip\movimento.c
+	<stdio.h>
+	<Windows.h>
+	<conio.h>
+	<stdbool.h>
+	"menu.h"
+	"mapa.h"
+
+1620932645 source:c:\users\pedro\onedrive\Área de trabalho\tudo\programação\c e c++\lpi_2ee_lf_2020.1_-_projeto_alberto_marques_dos_santos.zip\lpi 2ee lf 2020.1 - projeto alberto_marques_dos_santos.zip\score.c
+	<stdio.h>
+	<Windows.h>
+	<conio.h>
+	"menu.h"
+
+1620930202 source:c:\users\pedro\onedrive\Área de trabalho\tudo\programação\c e c++\lpi_2ee_lf_2020.1_-_projeto_alberto_marques_dos_santos.zip\lpi 2ee lf 2020.1 - projeto alberto_marques_dos_santos.zip\verificadormovimento.c
+	<stdio.h>
+	<Windows.h>
+	<conio.h>
+	<stdbool.h>
+	"mapa.h"
+	"mov.h"
+
